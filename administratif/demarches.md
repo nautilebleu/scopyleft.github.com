@@ -225,7 +225,7 @@ Cette démarche se fait directement auprès du bureau de poste, elle vous permet
 ### OUVERTURE D’UNE LIGNE TELEPHONIQUE ET D’UNE LIGNE FAX
 France Télécom met à la disposition des créateurs une offre préférentielle sur les services et produits vendus à ses agences. N’oubliez pas de demander le bénéficie de cette offre (20% sur les matériels, nombreuses réductions sur les autre services...).
 
-### DEMANDER L’INSTALLATION EDF-GDF, eau….
+### DEMANDER L’INSTALLATION EDF-GDF, EAU…
 
 ### ADHESION DE L’ENTREPRISE AUX CAISSES DE RETRAITE
 
