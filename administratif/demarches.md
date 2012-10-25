@@ -290,7 +290,8 @@ Pour toutes les adresses et des informations sur les régimes fiscaux : www.fin
 
 ### COMPLETER LE DOSSIER D’INSCRIPTION SCOP AVEC L’UNION REGIONALE DES SCOP
 
-L'union régionale vous a remis un dossier comprenant
+L'union régionale vous a remis un dossier comprenant:
+
 1. L'adhésion au mouvement (ur, confédération, fédération, union sociale)
 2. Le dossier ministère pour l'inscription de votre SCOP sur la liste du ministère du travail.
 3. La révision coopérative comprenant le contrat d'ARESCOP
